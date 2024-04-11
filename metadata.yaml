@@ -1,0 +1,38 @@
+_repo: Books-and-authors_73139
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lynd, Robert
+    birthdate: 1879
+    deathdate: 1949
+    gutenberg_agent_id: '4450'
+    url: http://www.gutenberg.org/2009/agents/4450
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Wilson_Lynd
+description: ''
+gutenberg_issued: '2024-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73139'
+  lccn: '23002673'
+language: en
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'Authors'
+- !lcc 'PN'
+- GITenberg
+tableOfContents: 'Herrick -- Victor Hugo -- Molière -- Edmund Burke -- Keats -- Charles
+  Lamb -- Byron once more -- Shelley -- Plutarch''s anecdotes -- Hans Andersen --
+  John Clare -- Historians as entertainers -- A Wordsworth discovery -- The poetry
+  of Poe -- Hawthorne -- Jonah in Lancashire -- The cult of dullness -- Mr. Max Beerbohm
+  -- Mr. Arnold Bennett confesses -- Mr. Conrad at home -- Mr. Wells and the world
+  -- Mr. Clutton-Brock -- Henley the vainglorious -- Lord Rosebery -- Mr. Vachel Lindsay
+  -- Mr. Punch takes the wrong turning -- Mr. H.M. Tomlinson -- The alleged hopelessness
+  of Tchehov -- Nietzsche: a note -- Mr. T.S. Eliot as critic -- Mr. Norman Douglas''s
+  dislikes -- M. André Gide makes a joke -- The critic.'
+title: Books and authors
+url: http://www.gutenberg.org/ebooks/73139
